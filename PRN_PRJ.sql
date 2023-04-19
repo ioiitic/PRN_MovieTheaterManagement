@@ -1,8 +1,8 @@
---use [master]
---go
+use [master]
+go
 
---create database [PRN_PRJ]
---go
+create database [PRN_PRJ]
+go
 
 use [PRN_PRJ]
 go
@@ -37,8 +37,8 @@ go
 
 create table [Showtime](
 	[ID] [int] identity(1,1) not null,
-	[StartTime] [timestamp] not null,
-	[EndTime] [timestamp] not null,
+	[StartTime] [datetime] not null,
+	[EndTime] [datetime] not null,
 	constraint PK_SHOWTIME primary key ([ID] asc) 
 )
 go

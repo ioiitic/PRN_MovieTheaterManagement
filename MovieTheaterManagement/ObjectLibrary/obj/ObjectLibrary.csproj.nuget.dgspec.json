@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_5\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {}
+    "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {}
   },
   "projects": {
-    "D:\\FPT_5\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {
+    "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_5\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
+        "projectUniqueName": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
         "projectName": "ObjectLibrary",
-        "projectPath": "D:\\FPT_5\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_5\\MovieTheaterManagement\\ObjectLibrary\\obj\\",
+        "projectPath": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
+        "packagesPath": "C:\\Users\\Thien Do\\.nuget\\packages\\",
+        "outputPath": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VS\\Share\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thien Do\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
