@@ -1,6 +1,6 @@
 ﻿namespace WinApp
 {
-    partial class LoginForm
+    partial class MainGuestForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -37,11 +37,11 @@
             accountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             showToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            loginToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             cartToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             viewCartToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             dataGridView1 = new System.Windows.Forms.DataGridView();
-            loginToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             tableLayoutPanel1.SuspendLayout();
             menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -135,15 +135,27 @@
             // showToolStripMenuItem
             // 
             showToolStripMenuItem.Name = "showToolStripMenuItem";
-            showToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            showToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
             showToolStripMenuItem.Text = "Show profile";
             // 
             // editToolStripMenuItem
             // 
             editToolStripMenuItem.Name = "editToolStripMenuItem";
-            editToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            editToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
             editToolStripMenuItem.Text = "Edit profile";
             editToolStripMenuItem.Click += editToolStripMenuItem_Click;
+            // 
+            // loginToolStripMenuItem
+            // 
+            loginToolStripMenuItem.Name = "loginToolStripMenuItem";
+            loginToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            loginToolStripMenuItem.Text = "Login";
+            // 
+            // logoutToolStripMenuItem
+            // 
+            logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
+            logoutToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            logoutToolStripMenuItem.Text = "Logout";
             // 
             // cartToolStripMenuItem
             // 
@@ -169,19 +181,7 @@
             dataGridView1.Size = new System.Drawing.Size(1232, 438);
             dataGridView1.TabIndex = 4;
             // 
-            // loginToolStripMenuItem
-            // 
-            loginToolStripMenuItem.Name = "loginToolStripMenuItem";
-            loginToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            loginToolStripMenuItem.Text = "Login";
-            // 
-            // logoutToolStripMenuItem
-            // 
-            logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            logoutToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            logoutToolStripMenuItem.Text = "Logout";
-            // 
-            // LoginForm
+            // MainGuestForm
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -192,8 +192,9 @@
             Font = new System.Drawing.Font("Montserrat", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             MainMenuStrip = menuStrip1;
             Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            Name = "LoginForm";
-            Text = "LoginForm";
+            Name = "MainGuestForm";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            Text = "Main Guest Form";
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();
             menuStrip1.ResumeLayout(false);
