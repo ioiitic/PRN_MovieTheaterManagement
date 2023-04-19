@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_5\\MovieTheaterManagement\\WinApp\\WinApp.csproj": {}
+    "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj": {}
   },
   "projects": {
-    "D:\\FPT_5\\MovieTheaterManagement\\WinApp\\WinApp.csproj": {
+    "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_5\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
+        "projectUniqueName": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
         "projectName": "WinApp",
-        "projectPath": "D:\\FPT_5\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_5\\MovieTheaterManagement\\WinApp\\obj\\",
+        "projectPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
+        "packagesPath": "C:\\Users\\Legion 5\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\VS\\Share\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Legion 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

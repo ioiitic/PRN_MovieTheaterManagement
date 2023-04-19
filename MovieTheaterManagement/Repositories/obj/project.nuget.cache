@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDt8wErvjWC0TkvHLbIQujn2xOjJGTdaKhee5vXZJ87Ki+DH2NCZvmYbpSz6usTaryTI3wNy6GzJNMvsi2MA1A==",
+  "dgSpecHash": "AEBN65gUrLpEPU/x29aY2fEOJUmi4BvAxkSE9LHm5So5Yuf8IpBJHC1nt3RYGjFOxXMS5Fk9r5yLQ1llY1j76Q==",
   "success": true,
-  "projectFilePath": "D:\\FPT_5\\MovieTheaterManagement\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
