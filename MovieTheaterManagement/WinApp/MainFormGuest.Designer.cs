@@ -135,26 +135,26 @@
             // showToolStripMenuItem
             // 
             showToolStripMenuItem.Name = "showToolStripMenuItem";
-            showToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            showToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             showToolStripMenuItem.Text = "Show profile";
             // 
             // editToolStripMenuItem
             // 
             editToolStripMenuItem.Name = "editToolStripMenuItem";
-            editToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            editToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             editToolStripMenuItem.Text = "Edit profile";
             editToolStripMenuItem.Click += editToolStripMenuItem_Click;
             // 
             // loginToolStripMenuItem
             // 
             loginToolStripMenuItem.Name = "loginToolStripMenuItem";
-            loginToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            loginToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             loginToolStripMenuItem.Text = "Login";
             // 
             // logoutToolStripMenuItem
             // 
             logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            logoutToolStripMenuItem.Size = new System.Drawing.Size(176, 26);
+            logoutToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             logoutToolStripMenuItem.Text = "Logout";
             // 
             // cartToolStripMenuItem
@@ -167,7 +167,7 @@
             // viewCartToolStripMenuItem
             // 
             viewCartToolStripMenuItem.Name = "viewCartToolStripMenuItem";
-            viewCartToolStripMenuItem.Size = new System.Drawing.Size(153, 26);
+            viewCartToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             viewCartToolStripMenuItem.Text = "View cart";
             // 
             // dataGridView1

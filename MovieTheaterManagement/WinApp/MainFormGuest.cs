@@ -3,9 +3,9 @@ using System.Windows.Forms;
 
 namespace WinApp
 {
-    public partial class LoginForm : Form
+    public partial class MainGuestForm : Form
     {
-        public LoginForm()
+        public MainGuestForm()
         {
             InitializeComponent();
         }
