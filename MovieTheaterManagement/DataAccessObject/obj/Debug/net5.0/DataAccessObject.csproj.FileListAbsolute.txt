@@ -1,0 +1,15 @@
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\bin\Debug\net5.0\DataAccessObject.deps.json
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\bin\Debug\net5.0\DataAccessObject.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\bin\Debug\net5.0\DataAccessObject.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\bin\Debug\net5.0\ObjectLibrary.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\bin\Debug\net5.0\ObjectLibrary.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.AssemblyReference.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfoInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfo.cs
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CoreCompileInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CopyComplete
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\refint\DataAccessObject.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\DataAccessObject.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\DataAccessObject\obj\Debug\net5.0\ref\DataAccessObject.dll

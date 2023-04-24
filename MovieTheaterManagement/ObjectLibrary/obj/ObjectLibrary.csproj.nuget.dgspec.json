@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {}
+    "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {
+    "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
+        "projectUniqueName": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
         "projectName": "ObjectLibrary",
-        "projectPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
-        "packagesPath": "C:\\Users\\Legion 5\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\ObjectLibrary\\obj\\",
+        "projectPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\ObjectLibrary\\ObjectLibrary.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\ObjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Share\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Legion 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +44,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

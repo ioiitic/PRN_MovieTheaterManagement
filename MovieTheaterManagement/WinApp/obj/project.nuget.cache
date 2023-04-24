@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "m4AYga3nYmVWXCf3Ytbh3AhvwZfnt/BlKL+ATIWqc4FGplEAff/VZkC1CwZy/jkp0p9ES68j9LohlgvKNHXHew==",
+  "dgSpecHash": "L1hX90Na4RoVFwwKyvTraM0UV9I5isdqAWqUzuEPtf03atKnPFHqxA+Lln5xJuuGRiqBV1g9awzJUi0JY7SfTQ==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
+  "projectFilePath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

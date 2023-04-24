@@ -1,0 +1,17 @@
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\Repositories.deps.json
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\Repositories.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\Repositories.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\DataAccessObject.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\ObjectLibrary.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\DataAccessObject.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\bin\Debug\net5.0\ObjectLibrary.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\Repositories.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\Repositories\obj\Debug\net5.0\ref\Repositories.dll

@@ -8,19 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Legion 5\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "D:\\VS\\Share\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
+      "projectUniqueName": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
       "projectName": "WinApp",
-      "projectPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
-      "packagesPath": "C:\\Users\\Legion 5\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\PRN211\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\WinApp\\obj\\",
+      "projectPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\WinApp.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\VS\\Share\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Legion 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,5 +72,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\WinApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

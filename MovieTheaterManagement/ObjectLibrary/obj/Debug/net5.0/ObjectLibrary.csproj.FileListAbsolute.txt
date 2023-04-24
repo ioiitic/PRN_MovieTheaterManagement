@@ -1,0 +1,15 @@
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.deps.json
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.runtimeconfig.json
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.runtimeconfig.dev.json
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\bin\Debug\net5.0\ObjectLibrary.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.csproj.AssemblyReference.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.AssemblyInfoInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.AssemblyInfo.cs
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.csproj.CoreCompileInputs.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ref\ObjectLibrary.dll
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.pdb
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\ObjectLibrary.genruntimeconfig.cache
+C:\PRN-Code\Project_Movie\PRN_MovieTheaterManagement\MovieTheaterManagement\ObjectLibrary\obj\Debug\net5.0\refint\ObjectLibrary.dll
