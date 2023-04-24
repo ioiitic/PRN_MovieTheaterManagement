@@ -5991,23 +5991,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thien Do\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "D:\\VS\\Share\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\Thien Do\\.nuget\\packages\\",
-      "outputPath": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Test\\obj\\",
+      "projectPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VS\\Share\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thien Do\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6023,8 +6023,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\PRN-Code\\Project_Movie\\PRN_MovieTheaterManagement\\MovieTheaterManagement\\Repositories\\Repositories.csproj"
+            "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\FPT_5\\ProjectPRN\\MovieTheaterManagement\\Repositories\\Repositories.csproj"
             }
           }
         }
