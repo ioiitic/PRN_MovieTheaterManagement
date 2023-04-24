@@ -17,7 +17,11 @@ namespace WinApp
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new LoginForm());
+=======
+            Application.Run(new frmTheaterManagement());
+>>>>>>> NT
         }
     }
 }
